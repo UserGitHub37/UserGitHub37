@@ -29,7 +29,11 @@
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black"></a>
+<a href="#"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black"></a>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+<a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
+<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"></a>
 </p>
 
 ### Связаться со мной:
@@ -37,4 +41,5 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=UserGitHub37&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UserGitHub37&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UserGitHub37&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UserGitHub37&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UserGitHub37&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UserGitHub37&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UserGitHub37&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UserGitHub37&theme=solarized_dark)
