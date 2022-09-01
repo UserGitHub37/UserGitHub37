@@ -3,6 +3,8 @@
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/UserGitHub37?color=236ad3&labelColor=1155ba&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 
+* * *
+
 <h1 align="center">Привет, меня зовут Андрей
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
@@ -13,6 +15,16 @@
 </p>
 
 <p align="center" style="font-size: 25px">Люблю интересные задачи и засиживаюсь над ними допоздна.</p>
+
+* * *
+
+## 📚 Мои проекты
+
+<a href="https://github.com/UserGitHub37/react-mesto-api-full/" target="_blank"><img alt="react-mesto-api-full" src="https://img.shields.io/badge/-mesto_full-006400?style=for-the-badge"></a>
+<a href="https://github.com/UserGitHub37/russian-travel/" target="_blank"><img alt="russian-travel" src="https://img.shields.io/badge/-russian_travel-000080?style=for-the-badge"></a>
+<a href="https://github.com/UserGitHub37/how-to-learn/" target="_blank"><img alt="how-to-learn" src="https://img.shields.io/badge/-how_to_learn-ff0000?style=for-the-badge"></a>
+
+* * *
 
 ## 🛠️ My favorite tools
 
@@ -44,8 +56,14 @@
   <a href="#"><img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?logo=eslint"></a>
 </p>
 
-### Связаться со мной:
+* * *
+
+### 📞 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/UserGitHub37)
+
+* * *
+
+### 🧮 Немного статистики
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=UserGitHub37&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
