@@ -20,7 +20,7 @@
 
 ## 📚 Мои проекты
 
-<a href="https://github.com/UserGitHub37/react-mesto-api-full/" target="_blank"><img alt="react-mesto-api-full" src="https://img.shields.io/badge/-mesto_full-006400?style=for-the-badge"></a>
+<a href="https://github.com/UserGitHub37/react-mesto-api-full/" target="_blank"><img alt="react-mesto-api-full" src="https://img.shields.io/badge/-mesto_fullstack_app-006400?style=for-the-badge"></a>
 <a href="https://github.com/UserGitHub37/russian-travel/" target="_blank"><img alt="russian-travel" src="https://img.shields.io/badge/-russian_travel-000080?style=for-the-badge"></a>
 <a href="https://github.com/UserGitHub37/how-to-learn/" target="_blank"><img alt="how-to-learn" src="https://img.shields.io/badge/-how_to_learn-ff0000?style=for-the-badge"></a>
 
