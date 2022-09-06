@@ -59,7 +59,8 @@
 * * *
 
 ### 📞 Связаться со мной:
-[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/UserGitHub37)
+[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=plastic&logo=Telegram)](https://t.me/UserGitHub37) UserGitHub37<br/><br/>
+[![e-mail](https://img.shields.io/badge/-email-005FF9?style=plastic&logo=Mail.Ru)](mailto:bum37@mail.ru) bum37@mail.ru
 
 * * *
 
