@@ -20,6 +20,7 @@
 
 ## 📚 Мои проекты
 
+<a href="https://github.com/UserGitHub37/movies-explorer-frontend" target="_blank"><img alt="movies-explorer-frontend" src="https://img.shields.io/badge/-movies--explorer_fullstack_app-4169E1?style=for-the-badge"></a>
 <a href="https://github.com/UserGitHub37/react-mesto-api-full/" target="_blank"><img alt="react-mesto-api-full" src="https://img.shields.io/badge/-mesto_fullstack_app-006400?style=for-the-badge"></a>
 <a href="https://github.com/UserGitHub37/russian-travel/" target="_blank"><img alt="russian-travel" src="https://img.shields.io/badge/-russian_travel-000080?style=for-the-badge"></a>
 <a href="https://github.com/UserGitHub37/how-to-learn/" target="_blank"><img alt="how-to-learn" src="https://img.shields.io/badge/-how_to_learn-ff0000?style=for-the-badge"></a>
@@ -31,6 +32,7 @@
 <p>
   <a href="https://github.com/search?q=user%3AUserGitHub37+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AUserGitHub37+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="https://www.welldonecode.com/perfectpixel/"><img alt="Perfect Pixel" src="https://shields.io/badge/-Perfect%20Pixel-FF69B4"></a>
   <a href="https://github.com/search?q=user%3AUserGitHub37+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="https://github.com/search?q=user%3AUserGitHub37+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
