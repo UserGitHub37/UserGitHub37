@@ -2,6 +2,7 @@
 <a href="https://github.com/UserGitHub37?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/UserGitHub37?color=236ad3&labelColor=1155ba&logo=person-add&label=Follow&logoColor=white"/>
 </a>
+<a href="https://www.codewars.com/users/UserGitHub37"><img alt="codewars" src="https://www.codewars.com/users/UserGitHub37/badges/small"></a>
 
 * * *
 
