@@ -63,5 +63,5 @@
 * * *
 
 ### 📞 Связаться со мной:
-[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=plastic&logo=Telegram)](https://t.me/UserGitHub37) UserGitHub37<br/><br/>
+[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=plastic&logo=Telegram)](https://t.me/UserGitHub37) <a href="https://t.me/UserGitHub37">UserGitHub37</a><br/><br/>
 [![e-mail](https://img.shields.io/badge/-email-007700?style=plastic&logo=Mail.Ru)](mailto:hardytype@yandex.ru) hardytype@yandex.ru
